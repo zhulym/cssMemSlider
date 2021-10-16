@@ -155,7 +155,7 @@ img {
 
 #slide1:checked~#text-bullet_wrap #bullets__container label:nth-child(1), #slide2:checked~#text-bullet_wrap #bullets__container label:nth-child(2), #slide3:checked~#text-bullet_wrap #bullets__container label:nth-child(3), #slide4:checked~#text-bullet_wrap #bullets__container label:nth-child(4), #slide5:checked~#text-bullet_wrap #bullets__container label:nth-child(5) {
   background: #ffffff;
-  box-shadow: 0 0 10px #ffffff;
+  box-shadow: 0 0 1rem #ffffff;
 }
 
 #text-bullet_wrap {

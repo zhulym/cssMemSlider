@@ -114,6 +114,18 @@ img {
   border-radius: 1rem;
 }
 
+.bullet {
+  display: inline-block;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  background-color: transparent;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 #bullets__container {
   margin: 1rem 0 0;
   text-align: right;
@@ -129,7 +141,7 @@ img {
   height: 1rem;
   border-radius: 100%;
   background: #79D8F7;
-  margin-left: 1rem;
+  margin-left: 1.5rem;
   transition: all 0.3s ease;
 }
 
